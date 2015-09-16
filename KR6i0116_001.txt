@@ -1,24 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:12.887482
+#+DATE: 2015-08-30 20:10:14.126476
 #+TITLE: 離垢慧菩薩所問禮佛法經
 #+PROPERTY: CBETA_ID T14n0487
 #+PROPERTY: ID KR6i0116
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 487
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0116_T_000-0698b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0116_T_001-0698b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.487¶
+No. 487¶
 
-離垢慧菩薩所問禮佛法經序
-:PROPERTIES:
-:head: 離垢慧菩薩所問禮佛法經序
-:END:
-¶
+離垢慧菩薩所問禮佛法經序¶
 ¶
 終南山釋氏道宣撰¶
 
@@ -41,8 +37,7 @@ No.487¶
 云爾。¶
 ¶
 ¶
-
- 離垢慧菩薩所問禮佛法經¶
+離垢慧菩薩所問禮佛法經¶
 ¶
 大唐三藏那提譯¶
 
@@ -129,7 +124,7 @@ No.487¶
 界一切如來，諸大法藏，并諸菩薩、聲聞、緣覺¶
 一切賢聖。¶
 
-「『次又歸命娑婆世界本師釋迦牟尼如來。廣¶
+「『次又歸命娑訶世界本師釋迦牟尼如來。廣¶
 及十方無量世界一切如來，諸大法藏，及入¶
 地菩薩摩訶薩、聲聞、緣覺一切賢聖。』¶
 
